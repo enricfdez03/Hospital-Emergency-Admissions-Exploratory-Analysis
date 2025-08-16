@@ -1,7 +1,7 @@
 # Hospital-Emergency-Admissions-Exploratory-Analysis
 Unkiversity of Warwick - Programming for Business Application. 
 
-Project Overview
+## Project Overview
 
 This project was part of an introductory programming module for business applications, where I worked with a real-world style dataset on Accident & Emergency (A&E) admissions in a London hospital.
 
@@ -17,7 +17,7 @@ Average admissions by reason vs hour of the day (heatmap)
 
 > **Note:** As an academic assignment, the project was bound by a specific requirements and a strict word count, which limited its scope and creative exploration. Furthermore, the use of a dataset spanning just one week also restricted the ability to identify potentially useful long-term patterns, such as seasonal or monthly trends.
 
-Insights & Recommendations
+## Insights & Recommendations
 
 Insight: On weekdays, admissions peak in the morning shift (08h–16h), while on weekends, demand shifts to evening and night hours.
 Recommendation: Adjust workforce scheduling dynamically — reinforce morning staffing during weekdays and evening/night coverage on weekends to match patient inflow patterns.
@@ -37,7 +37,7 @@ Recommendation: Expand availability of trauma surgeons and diagnostic imaging eq
 Insight: High variability exists in admissions for “unknown reasons”, showing unpredictable surges.
 Recommendation: Improve data collection processes to reduce “unknown” categories, and develop predictive models to better anticipate sudden peaks and allocate floating staff flexibly.
 
-Tools & Methods
+## Tools & Methods
 
 Python (first project using it)
 
@@ -47,7 +47,7 @@ Simple Data Cleaning: handling missing values, transforming categorical variable
 
 Selected Visualizations: bar chart, line chart, and a heatmap to communicate insights effectively
 
-🚀 Why This Project Matters
+## Why I Show this Project 
 
 This was my first Python project, and it gave me a first practical experience applying programming to business and decision-making. 
 This project can be seen as an example of what I would deliver if given only a limited dataset, around one hour to prepare, and five minutes to present simple, actionable ideas to a manager for improving operational performance.
